@@ -4,8 +4,6 @@
 
 /crucial/coverage
 
-/crucial/build
-
 .DS_Store
 /crucial/.env.local
 /crucial/.env.development.local
